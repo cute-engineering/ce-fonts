@@ -1,0 +1,9 @@
+{
+    "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.component.v1",
+    "id": "ce-fonts",
+    "type": "lib",
+    "description": "Cute Engineering Font Library",
+    "props": {
+        "cpp-root-include": true
+    }
+}
